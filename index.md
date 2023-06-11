@@ -1,11 +1,14 @@
-## Portfolio
+## Data Science & Artificial Intelligence projects
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+[Explainable AI on images](/sample_page)
+One of the main challenges to the AI adoption in many fields is the explainability of model's result, due to the lack of interpretability of black box models.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -16,20 +19,3 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
