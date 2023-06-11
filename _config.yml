@@ -1,10 +1,9 @@
 title: Marcello Cannone # your name (or website title) here
 logo: "https://media.licdn.com/dms/image/C4D03AQG1u47SI9Bhrw/profile-displayphoto-shrink_800_800/0/1616067177414?e=1691020800&v=beta&t=GkKCVjKo7zBSf2Rp8JIFVEsbj75JYeR0xZyslLfUTjI" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
   <br><br>
-  Second description 
-  <br><br>
+Software and Data Engineer with 3+ years of experience and a master's degree in Data Science Engineering from Politecnico di Torino. Currently working as Google cloud consultant
+<br><br>
   <a href="https://www.linkedin.com/in/marcello-cannone/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
