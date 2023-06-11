@@ -2,7 +2,7 @@
 
 ---
 
-[Explainable AI on images](/sample_page)
+### Explainable AI on images
 One of the main challenges to the AI adoption in many fields is the explainability of model's result, due to the lack of interpretability of black box models.
 <!-- <img src="images/whale lime.png?raw=true"/> -->
 <img src="images/cat-shap.png?raw=true"/>
@@ -15,10 +15,6 @@ One of the main challenges to the AI adoption in many fields is the explainabili
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
