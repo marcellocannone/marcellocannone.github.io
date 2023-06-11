@@ -14,6 +14,8 @@ One of the main challenges to the AI adoption in many fields is the explainabili
 ![SHAP](https://img.shields.io/badge/xAI-SHAP-blue)
 
 ---
+### House price prediction
+
 <!-- [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/> 
 
