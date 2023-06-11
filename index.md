@@ -13,7 +13,7 @@ One of the main challenges to the AI adoption in many fields is the explainabili
 ![LIME](https://img.shields.io/badge/xAI-LIME-brightgreen)
 ![SHAP](https://img.shields.io/badge/xAI-SHAP-blue)
 
-[View code on ]![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)[](https://github.com/marcellocannone/explainableAI)
+[View code ](https://github.com/marcellocannone/explainableAI)![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 ### House price prediction
