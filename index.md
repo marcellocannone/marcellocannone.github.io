@@ -13,11 +13,20 @@ One of the main challenges to the AI adoption in many fields is the explainabili
 ![LIME](https://img.shields.io/badge/xAI-LIME-brightgreen)
 ![SHAP](https://img.shields.io/badge/xAI-SHAP-blue)
 
-[View code ](https://github.com/marcellocannone/explainableAI)![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[View code ](https://github.com/marcellocannone/explainableAI) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 ### House price prediction
+The house price prediction is one of the most used case study for regression problems.
+<img src="images/house_price_screen.png?raw=true"/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LIME](https://img.shields.io/badge/xAI-LIME-brightgreen)
+![SHAP](https://img.shields.io/badge/xAI-SHAP-blue)
 
+[View code ](https://github.com/marcellocannone/house_price_prediction) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 <!-- [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/> 
 
