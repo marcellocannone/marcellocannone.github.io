@@ -18,7 +18,7 @@ One of the main challenges to the AI adoption in many fields is the explainabili
 
 ---
 ### House price prediction
-The house price prediction is one of the most used case study for regression problems.
+Quick and simple walkthrough into a regression problem, with one of the most used case study: the house price prediction.
 <img src="images/house_price_screen.png?raw=true"/>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
