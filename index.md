@@ -13,7 +13,7 @@ One of the main challenges to the AI adoption in many fields is the explainabili
 ![LIME](https://img.shields.io/badge/xAI-LIME-brightgreen)
 ![SHAP](https://img.shields.io/badge/xAI-SHAP-blue)
 
-[View code ](https://github.com/marcellocannone/explainableAI) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[View code ](https://github.com/marcellocannone/explainableAI) &nbsp ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 ### House price prediction
@@ -26,7 +26,8 @@ The house price prediction is one of the most used case study for regression pro
 ![LIME](https://img.shields.io/badge/xAI-LIME-brightgreen)
 ![SHAP](https://img.shields.io/badge/xAI-SHAP-blue)
 
-[View code ](https://github.com/marcellocannone/house_price_prediction) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[View code ](https://github.com/marcellocannone/house_price_prediction) &nbsp ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 <!-- [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/> 
 
